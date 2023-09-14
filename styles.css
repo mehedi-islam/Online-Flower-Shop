@@ -185,7 +185,7 @@
 .shop {
     border-radius: 8px;
     background: url(<path-to-image>), lightgray 0px -203.444px / 100% 213.755% no-repeat;
-    background-image: url('/Rectangle\ 9.png');
+    background-image: url('./Rectangle/9.png');
     width: 820px;
     height: 300px;
     margin-left: 260px;
